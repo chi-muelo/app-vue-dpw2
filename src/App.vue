@@ -185,7 +185,7 @@ const handleLogout = (): void => {
         </div>
 
         <p class="text-center mt-4">
-          Desarrollado por Est. Noemi Vanesa Mendoza Limachi
+          Dev, por Est. Noemi Vanesa Mendoza Limachi
         </p>
       </div>
     </div>
