@@ -44,7 +44,7 @@ const listaProductos: Producto[] = [
 // 4. LÓGICA DE CONTROL DE ACCESO
 const handleLogin = (): void => {
   if (
-    username.value === 'felix.maldonado' &&
+    username.value === 'chimuelo' &&
     password.value === 'itpm2026'
   ) {
     isAuthenticated.value = true;
@@ -134,7 +134,7 @@ const handleLogout = (): void => {
 
       <div class="card-body p-4 text-center">
         <h4 class="text-success fw-bold">
-          ¡Bienvenido, Lic. Félix Maldonado!
+          ¡Bienvenido,NOE :l!
         </h4>
 
         <p class="text-muted small">
