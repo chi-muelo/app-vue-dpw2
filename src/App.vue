@@ -62,6 +62,7 @@ const handleLogout = (): void => {
 };
 </script>
 
+
 <template>
   <div
     class="container mt-5"
@@ -178,7 +179,11 @@ const handleLogout = (): void => {
               <div class="card-footer bg-white border-0 p-2">
                 <button class="btn btn-outline-dark btn-sm w-100">
                   Gestionar Stock
+
+                  
                 </button>
+                
+   
               </div>
             </div>
           </div>
